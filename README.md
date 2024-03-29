@@ -1,23 +1,42 @@
-<h1 align="center">Hi 👋, I'm Muhammad Mubashir</h1>
-<h3 align="center">A passionate Software Engineer Crafting Code and Building Dreams</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw14hD_TOGEAsYbwatWi1nGZ&ust=1711389562112000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOidj4m9jYUDFQAAAAAdAAAAABAR">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-mubashir786&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-mubashir786" /> </p>
+<!-- Banner Image -->
+<img src="https://source.unsplash.com/1600x400/?coding,technology" alt="Banner Image" width="100%">
 
-- 🌱 I’m currently learning **C++**
+<!-- Introduction -->
+<h1 align="center">Hi there 👋, I'm Muhammad Mubashir</h1>
+<h3 align="center">A passionate Software Engineer crafting code and building dreams</h3>
 
-- 📫 How to reach me **mmubashir39705@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammad mubashir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad mubashir" height="30" width="40" /></a>
+<!-- Profile Views -->
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=muhammad-mubashir786&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
+<!-- Bio -->
+<p align="center">🌱 Currently learning C++</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-mubashir786&show_icons=true&locale=en&layout=compact" alt="muhammad-mubashir786" /></p>
+<!-- Contact Information -->
+<p align="center">📫 Reach me at mmubashir39705@gmail.com</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammad-mubashir786&show_icons=true&locale=en" alt="muhammad-mubashir786" /></p>
+<!-- Social Links -->
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+    <a href="https://linkedin.com/in/muhammad-mubashir" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad mubashir" height="30" width="40" /></a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-mubashir786&" alt="muhammad-mubashir786" /></p>
+<!-- Languages and Tools -->
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /></a>
+</p>
 
+<!-- GitHub Stats -->
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-mubashir786&show_icons=true&locale=en&layout=compact" alt="muhammad-mubashir786" />
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=muhammad-mubashir786&show_icons=true&locale=en" alt="muhammad-mubashir786" />
+</p>
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-mubashir786&" alt="muhammad-mubashir786" />
+</p>
