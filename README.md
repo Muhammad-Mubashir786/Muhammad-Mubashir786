@@ -82,5 +82,4 @@
 ---
 
 <!-- Footer Quote -->
-<h3 align="center">💬 Quote of the Day</h3>
 <p align="center"><i>"The best error message is the one that never shows up." – Thomas Fuchs</i></p>
